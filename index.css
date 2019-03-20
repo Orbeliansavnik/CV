@@ -1,0 +1,112 @@
+html,body{
+  margin:0;
+  padding:0;
+  scroll-behavior: smooth;
+}
+.navbar{
+  margin: 0;
+}
+.container-fluid{
+  margin:0;
+  padding: 0;
+}
+div{
+  margin:0;
+}
+.row{
+  margin: 0;
+  padding: 0;
+}
+.codes{
+  padding-top: 10%;
+  margin-top: 5%;
+}
+.codes{
+  padding: 0;
+}
+#pic{
+  width: 15%;
+  height: 15%;
+  border-radius: 100%;
+  border:1px solid black;
+  margin-top: 4% 0;
+}
+
+.about{
+  background-color: #13abc4;
+  margin: 0 3%;
+  padding: 3% 0;
+  color:white;
+
+}
+
+.skills{
+  background-color: #7efaff;
+  margin: 0 3%;
+  padding: 3% 0;
+}
+
+.education{
+  background-color: #ebfffb;
+  margin: 0 3%;
+  padding: 3% 0;
+}
+
+.contact{
+  background-color: #3161a3;
+  margin: 0 3%;
+  padding: 3% 0;
+  color: white;
+}
+h1{
+  font-family: 'Lilita One', cursive;
+  padding-top: 2%;
+}
+p{
+  font-family: 'Abel', sans-serif;
+  padding: 2% 30%;
+  justify-content:center;
+}
+
+.nav-link{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150%;
+}
+#navbarNav{
+  justify-content: center;
+}
+
+
+#edu:hover{
+  cursor: url("img/hat.png")5 5, auto;
+  text-decoration: underline;
+  color: black;
+  font-size: 115%;
+  color: #13abc4;
+  transition: all .3s;
+
+}
+#skills:hover{
+  cursor: url("img/skills.png")5 5, auto;
+  text-decoration: underline;
+  color: black;
+  font-size: 115%;
+  color: #13abc4;
+  transition: all .3s;
+}
+#about:hover{
+  cursor: url("img/about.png")5 5, auto;
+  text-decoration: underline;
+  color: black;
+    font-size: 115%;
+    color: #13abc4;
+  transition: all .3s;
+}
+#contact:hover{
+  cursor: url("img/about.png")5 5, auto;
+  text-decoration: underline;
+  color: black;
+    font-size: 115%;
+    color: #13abc4;
+  transition: all .3s;
+}
